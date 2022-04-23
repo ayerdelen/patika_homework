@@ -1,0 +1,20 @@
+{
+  "name": "patika_homeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayerdelen/patika_homeworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayerdelen/patika_homeworks/issues"
+  },
+  "homepage": "https://github.com/ayerdelen/patika_homeworks#readme"
+}
